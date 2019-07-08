@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: d2430d3d74471284486245fc05162b1a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group
+    100002: group1
+    100004: pipette_50ml
+    100006: pSphere1
+    100008: shou1:nurbsCircle7
+    100010: shou1:nurbsCircle8
+    100012: shou:nurbsCircle6
+    100014: shou:ynsj_8:pfo:pfo:joint1
+    100016: shou:ynsj_8:pfo:pfo:joint10
+    100018: shou:ynsj_8:pfo:pfo:joint11
+    100020: shou:ynsj_8:pfo:pfo:joint12
+    100022: shou:ynsj_8:pfo:pfo:joint13
+    100024: shou:ynsj_8:pfo:pfo:joint14
+    100026: shou:ynsj_8:pfo:pfo:joint15
+    100028: shou:ynsj_8:pfo:pfo:joint16
+    100030: shou:ynsj_8:pfo:pfo:joint17
+    100032: shou:ynsj_8:pfo:pfo:joint18
+    100034: shou:ynsj_8:pfo:pfo:joint19
+    100036: shou:ynsj_8:pfo:pfo:joint2
+    100038: shou:ynsj_8:pfo:pfo:joint20
+    100040: shou:ynsj_8:pfo:pfo:joint21
+    100042: shou:ynsj_8:pfo:pfo:joint22
+    100044: shou:ynsj_8:pfo:pfo:joint23
+    100046: shou:ynsj_8:pfo:pfo:joint24
+    100048: shou:ynsj_8:pfo:pfo:joint3
+    100050: shou:ynsj_8:pfo:pfo:joint4
+    100052: shou:ynsj_8:pfo:pfo:joint5
+    100054: shou:ynsj_8:pfo:pfo:joint6
+    100056: shou:ynsj_8:pfo:pfo:joint7
+    100058: shou:ynsj_8:pfo:pfo:joint8
+    100060: shou:ynsj_8:pfo:pfo:joint9
+    100062: shou:ynsj_8:pfo:pfo:nurbsCircle1
+    100064: shou:ynsj_8:pfo:pfo:nurbsCircle2
+    100066: shou:ynsj_8:pfo:pfo:nurbsCircle3
+    100068: shou:ynsj_8:pfo:pfo:nurbsCircle4
+    100070: shou:ynsj_8:pfo:pfo:nurbsCircle5
+    100072: shou:ynsj_8:pfo:pfo:nurbsCircle6
+    100074: shou:ynsj_8:pfo:pfo:polySurface1
+    100076: xeq1:pSphere2
+    100078: //RootNode
+    400000: group
+    400002: group1
+    400004: pipette_50ml
+    400006: pSphere1
+    400008: shou1:nurbsCircle7
+    400010: shou1:nurbsCircle8
+    400012: shou:nurbsCircle6
+    400014: shou:ynsj_8:pfo:pfo:joint1
+    400016: shou:ynsj_8:pfo:pfo:joint10
+    400018: shou:ynsj_8:pfo:pfo:joint11
+    400020: shou:ynsj_8:pfo:pfo:joint12
+    400022: shou:ynsj_8:pfo:pfo:joint13
+    400024: shou:ynsj_8:pfo:pfo:joint14
+    400026: shou:ynsj_8:pfo:pfo:joint15
+    400028: shou:ynsj_8:pfo:pfo:joint16
+    400030: shou:ynsj_8:pfo:pfo:joint17
+    400032: shou:ynsj_8:pfo:pfo:joint18
+    400034: shou:ynsj_8:pfo:pfo:joint19
+    400036: shou:ynsj_8:pfo:pfo:joint2
+    400038: shou:ynsj_8:pfo:pfo:joint20
+    400040: shou:ynsj_8:pfo:pfo:joint21
+    400042: shou:ynsj_8:pfo:pfo:joint22
+    400044: shou:ynsj_8:pfo:pfo:joint23
+    400046: shou:ynsj_8:pfo:pfo:joint24
+    400048: shou:ynsj_8:pfo:pfo:joint3
+    400050: shou:ynsj_8:pfo:pfo:joint4
+    400052: shou:ynsj_8:pfo:pfo:joint5
+    400054: shou:ynsj_8:pfo:pfo:joint6
+    400056: shou:ynsj_8:pfo:pfo:joint7
+    400058: shou:ynsj_8:pfo:pfo:joint8
+    400060: shou:ynsj_8:pfo:pfo:joint9
+    400062: shou:ynsj_8:pfo:pfo:nurbsCircle1
+    400064: shou:ynsj_8:pfo:pfo:nurbsCircle2
+    400066: shou:ynsj_8:pfo:pfo:nurbsCircle3
+    400068: shou:ynsj_8:pfo:pfo:nurbsCircle4
+    400070: shou:ynsj_8:pfo:pfo:nurbsCircle5
+    400072: shou:ynsj_8:pfo:pfo:nurbsCircle6
+    400074: shou:ynsj_8:pfo:pfo:polySurface1
+    400076: xeq1:pSphere2
+    400078: //RootNode
+    2100000: shou_man_defaultMat1
+    2100002: Default_Material
+    2100004: pasted__lambert2
+    2300000: pSphere1
+    3300000: pSphere1
+    4300000: shou:ynsj_8:pfo:pfo:polySurface1
+    4300002: pSphere1
+    4300004: xeq1:pSphere2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: shou:ynsj_8:pfo:pfo:polySurface1
+    13700002: xeq1:pSphere2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

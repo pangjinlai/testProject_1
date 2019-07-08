@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: f2d1d0dd5477c1148a6a7297d108e0f5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group
+    100002: pipette_50ml
+    100004: pipette_50ml 1
+    100006: pSphere1
+    100008: shou1:joint1
+    100010: shou1:joint10
+    100012: shou1:joint11
+    100014: shou1:joint12
+    100016: shou1:joint13
+    100018: shou1:joint14
+    100020: shou1:joint15
+    100022: shou1:joint16
+    100024: shou1:joint17
+    100026: shou1:joint18
+    100028: shou1:joint19
+    100030: shou1:joint2
+    100032: shou1:joint20
+    100034: shou1:joint21
+    100036: shou1:joint22
+    100038: shou1:joint23
+    100040: shou1:joint24
+    100042: shou1:joint3
+    100044: shou1:joint4
+    100046: shou1:joint5
+    100048: shou1:joint6
+    100050: shou1:joint7
+    100052: shou1:joint8
+    100054: shou1:joint9
+    100056: shou1:nurbsCircle1
+    100058: shou1:nurbsCircle2
+    100060: shou1:nurbsCircle3
+    100062: shou1:nurbsCircle4
+    100064: shou1:nurbsCircle5
+    100066: shou1:nurbsCircle7
+    100068: shou1:nurbsCircle8
+    100070: shou:joint1
+    100072: shou:joint10
+    100074: shou:joint11
+    100076: shou:joint12
+    100078: shou:joint13
+    100080: shou:joint14
+    100082: shou:joint15
+    100084: shou:joint16
+    100086: shou:joint17
+    100088: shou:joint18
+    100090: shou:joint19
+    100092: shou:joint2
+    100094: shou:joint20
+    100096: shou:joint21
+    100098: shou:joint22
+    100100: shou:joint23
+    100102: shou:joint24
+    100104: shou:joint3
+    100106: shou:joint4
+    100108: shou:joint5
+    100110: shou:joint6
+    100112: shou:joint7
+    100114: shou:joint8
+    100116: shou:joint9
+    100118: shou:nurbsCircle1
+    100120: shou:nurbsCircle2
+    100122: shou:nurbsCircle3
+    100124: shou:nurbsCircle4
+    100126: shou:nurbsCircle5
+    100128: shou:nurbsCircle7
+    100130: shou:nurbsCircle8
+    100132: shou:polySurface1
+    100134: //RootNode
+    400000: group
+    400002: pipette_50ml
+    400004: pipette_50ml 1
+    400006: pSphere1
+    400008: shou1:joint1
+    400010: shou1:joint10
+    400012: shou1:joint11
+    400014: shou1:joint12
+    400016: shou1:joint13
+    400018: shou1:joint14
+    400020: shou1:joint15
+    400022: shou1:joint16
+    400024: shou1:joint17
+    400026: shou1:joint18
+    400028: shou1:joint19
+    400030: shou1:joint2
+    400032: shou1:joint20
+    400034: shou1:joint21
+    400036: shou1:joint22
+    400038: shou1:joint23
+    400040: shou1:joint24
+    400042: shou1:joint3
+    400044: shou1:joint4
+    400046: shou1:joint5
+    400048: shou1:joint6
+    400050: shou1:joint7
+    400052: shou1:joint8
+    400054: shou1:joint9
+    400056: shou1:nurbsCircle1
+    400058: shou1:nurbsCircle2
+    400060: shou1:nurbsCircle3
+    400062: shou1:nurbsCircle4
+    400064: shou1:nurbsCircle5
+    400066: shou1:nurbsCircle7
+    400068: shou1:nurbsCircle8
+    400070: shou:joint1
+    400072: shou:joint10
+    400074: shou:joint11
+    400076: shou:joint12
+    400078: shou:joint13
+    400080: shou:joint14
+    400082: shou:joint15
+    400084: shou:joint16
+    400086: shou:joint17
+    400088: shou:joint18
+    400090: shou:joint19
+    400092: shou:joint2
+    400094: shou:joint20
+    400096: shou:joint21
+    400098: shou:joint22
+    400100: shou:joint23
+    400102: shou:joint24
+    400104: shou:joint3
+    400106: shou:joint4
+    400108: shou:joint5
+    400110: shou:joint6
+    400112: shou:joint7
+    400114: shou:joint8
+    400116: shou:joint9
+    400118: shou:nurbsCircle1
+    400120: shou:nurbsCircle2
+    400122: shou:nurbsCircle3
+    400124: shou:nurbsCircle4
+    400126: shou:nurbsCircle5
+    400128: shou:nurbsCircle7
+    400130: shou:nurbsCircle8
+    400132: shou:polySurface1
+    400134: //RootNode
+    2100000: shou_man_defaultMat1
+    2100002: lambert2
+    2100004: pasted__teabag1
+    2100006: blinn1
+    2100008: Default_Material
+    2300000: pipette_50ml 1
+    2300002: pSphere1
+    3300000: pipette_50ml 1
+    3300002: pSphere1
+    4300000: shou:polySurface1
+    4300002: pipette_50ml
+    4300004: pSphere1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: shou:polySurface1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
